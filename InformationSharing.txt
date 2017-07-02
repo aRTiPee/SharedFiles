@@ -1,0 +1,7 @@
+*Power Management for Linux Ubuntu/Linux Mint
+	Install TLP
+	1. sudo add-apt-repository ppa:linrunner/tlp
+	2. sudo apt-get update
+	3. sudo apt-get install tlp tlp-rdw
+	Running the TLP service
+	1. sudo tlp start
