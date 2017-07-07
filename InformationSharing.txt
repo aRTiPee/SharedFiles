@@ -5,3 +5,7 @@
 	3. sudo apt-get install tlp tlp-rdw
 	Running the TLP service
 	1. sudo tlp start
+
+*Changing gamma screen
+    xgamma -rgamma .555 -ggamma .555 -bgamma .555
+    xgamma -rgamma 1 -ggamma 1 -bgamma 1 (default)
